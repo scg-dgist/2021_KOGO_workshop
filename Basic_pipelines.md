@@ -356,7 +356,7 @@ FeaturePlot(seurat,
             features = markers$T.cells,
             order = T,
             pt.size = 1,
-            ncol = 6)
+            ncol = 2)
 ```
 
 <img src="Basic_pipelines_files/figure-gfm/unnamed-chunk-12-1.png" style="display: block; margin: auto;" />
@@ -366,7 +366,7 @@ FeaturePlot(seurat,
             features = markers$B.cells,
             order = T,
             pt.size = 1,
-            ncol = 6)
+            ncol = 2)
 ```
 
 <img src="Basic_pipelines_files/figure-gfm/unnamed-chunk-13-1.png" style="display: block; margin: auto;" />
@@ -376,7 +376,7 @@ FeaturePlot(seurat,
             features = markers$TECs,
             order = T,
             pt.size = 1,
-            ncol = 6)
+            ncol = 2)
 ```
 
 <img src="Basic_pipelines_files/figure-gfm/unnamed-chunk-14-1.png" style="display: block; margin: auto;" />
@@ -386,7 +386,7 @@ FeaturePlot(seurat,
             features = markers$CAFs,
             order = T,
             pt.size = 1,
-            ncol = 6)
+            ncol = 2)
 ```
 
 <img src="Basic_pipelines_files/figure-gfm/unnamed-chunk-15-1.png" style="display: block; margin: auto;" />
@@ -396,7 +396,7 @@ FeaturePlot(seurat,
             features = markers$TAMs,
             order = T,
             pt.size = 1,
-            ncol = 6)
+            ncol = 2)
 ```
 
 <img src="Basic_pipelines_files/figure-gfm/unnamed-chunk-16-1.png" style="display: block; margin: auto;" />
@@ -406,7 +406,7 @@ FeaturePlot(seurat,
             features = markers$HPC.like,
             order = T,
             pt.size = 1,
-            ncol = 6)
+            ncol = 2)
 ```
 
 <img src="Basic_pipelines_files/figure-gfm/unnamed-chunk-17-1.png" style="display: block; margin: auto;" />
